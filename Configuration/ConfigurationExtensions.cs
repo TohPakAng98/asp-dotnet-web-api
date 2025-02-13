@@ -90,13 +90,13 @@ public static class ConfigurationExtensions
                     Title = "Book API",
                     Version = "v1",
                     Description = "Virtual Campus",
-                    TermsOfService = new Uri("https://www.samsun.edu.tr"),
+                    TermsOfService = new Uri("https://www.google.com"),
                     License = new OpenApiLicense(),
                     Contact = new OpenApiContact
                     {
-                         Email = "zcomert@samsun.edu.tr",
-                         Name = "Zafer Cömert",
-                         Url = new Uri("https://www.youtube.com/@virtual.campus")
+                         Email = "adilrifaie0415@gmail.com",
+                         Name = "Nik Adil",
+                         Url = new Uri("https://www.youtube.com")
                     }
                });
 
