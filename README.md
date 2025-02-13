@@ -29,8 +29,8 @@ During my 3rd Semester, I've learn about Object-Oriented Programming(OOP). All o
 ### Setup and Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/TohPakAng98/asp-dotnet-web-api.git
+   cd asp-dotnet-web-api
    ```
 
 2. **Install Dependencies**:
